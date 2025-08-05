@@ -1,8 +1,5 @@
-
-
-
 <h1 align="center">Salut 👋, moi c'est Abdourahmane Balde</h1>
-<h3 align="center">Full-Stack Data Engineer |AI Specialist |Data Scientist</h3>
+<h3 align="center">Full-Stack Data Engineer | AI Specialist | Data Scientist</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px" />
@@ -11,10 +8,10 @@
 ---
 
 ### 🚀 À propos de moi
-- 🎯 Je suis **Data Engineer **, spécialisé en **Ingestion & Valorisation de données**
+- 🎯 Je suis **Data Engineer**, spécialisé en **ingestion et valorisation de données**
 - 🛠️ J’utilise **Sling, Snowflake, dbt** pour optimiser les pipelines de données
-- 📊 J’ai aussi une forte expérience en **Power BI ** pour la visualisation et le reporting
-- 🧠 Passionné par **l’Intelligence Artificielle appliquée à la Data & l’Automation**
+- 📊 J’ai aussi une forte expérience en **Power BI** pour la visualisation et le reporting
+- 🧠 Passionné par **l’intelligence artificielle appliquée à la Data et l’automatisation**
 - 📫 Contact : **balderahmane95@gmail.com**
 
 ---
@@ -50,11 +47,11 @@
 ---
 
 ### 🌐 Me retrouver ailleurs
-- [LinkedIn]([https://www.linkedin.com/in/abdourahmane-balde/](https://www.linkedin.com/in/abdourahmane-balde-75b380183/)
+- [LinkedIn](https://www.linkedin.com/in/abdourahmane-balde-75b380183/)
+
+---
 
 ### 📅 Last Updated
 <!--START_SECTION:updated-->
 ![Last Updated](https://raw.githubusercontent.com/abdourahmanebalde/abdourahmanebalde/main/last-updated.md)
 <!--END_SECTION:updated-->
-
--->
