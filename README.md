@@ -50,7 +50,7 @@
 ---
 
 ### 🌐 Me retrouver ailleurs
-- [LinkedIn](https://www.linkedin.com/in/abdourahmane-balde/)
+- [LinkedIn]([https://www.linkedin.com/in/abdourahmane-balde/](https://www.linkedin.com/in/abdourahmane-balde-75b380183/)
 
 
 -->
