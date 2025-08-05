@@ -1,6 +1,5 @@
-## Hi there 👋
 
-<!--
+
 **abdourahmanebalde/abdourahmanebalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Salut 👋, moi c'est Abdourahmane Balde</h1>
 <h3 align="center">Data Engineer | Fullstack Data | Passionné par l’IA & la Business Intelligence</h3>
