@@ -31,7 +31,7 @@
 ### 📈 Mes Stats GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdourahmaneBalde&show_icons=true&theme=default&hide=prs" alt="GitHub Stats" />
-</p>
+</p> 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdourahmaneBalde&layout=compact&theme=default" alt="Top Langs" />
