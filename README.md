@@ -52,5 +52,9 @@
 ### 🌐 Me retrouver ailleurs
 - [LinkedIn]([https://www.linkedin.com/in/abdourahmane-balde/](https://www.linkedin.com/in/abdourahmane-balde-75b380183/)
 
+### 📅 Last Updated
+<!--START_SECTION:updated-->
+![Last Updated](https://raw.githubusercontent.com/abdourahmanebalde/abdourahmanebalde/main/last-updated.md)
+<!--END_SECTION:updated-->
 
 -->
