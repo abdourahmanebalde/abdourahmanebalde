@@ -1,0 +1,23 @@
+name: 🌙 Auto Commit Every Night
+
+on:
+  schedule:
+    - cron: '0 21 * * *'  # Tous les jours à 21h00 UTC
+  workflow_dispatch:
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Update Last Updated Badge
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+        echo "Last Updated: $(date -u +"%d %B %Y")" > last-updated.md
+        git add last-updated.md
+        git commit -m "Automated nightly update 🌙"
+        git push
