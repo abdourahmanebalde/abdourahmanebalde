@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Salut 👋, moi c'est Abdourahmane Balde</h1>
-<h3 align="center">Data Engineer | Fullstack Data | Passionné par l’IA & la Business Intelligence</h3>
+<h3 align="center">Full-Stack Data Engineer |AI Specialist |Data Scientist</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px" />
