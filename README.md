@@ -11,7 +11,7 @@
 - 🎯 Je suis **Data Engineer**, spécialisé en **ingestion et valorisation de données**
 - 🛠️ J’utilise **Sling, Snowflake, dbt** pour optimiser les pipelines de données
 - 📊 J’ai aussi une forte expérience en **Power BI** pour la visualisation et le reporting
-- 🧠 Passionné par **l’intelligence artificielle appliquée à la Data et l’automatisation**
+- 🧠 Passionné par **l’intelligence artificielle**
 - 📫 Contact : **balderahmane95@gmail.com**
 
 ---
@@ -32,11 +32,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdourahmaneBalde&show_icons=true&theme=default&hide=prs&cache_seconds=60" alt="GitHub Stats" />
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdourahmaneBalde&layout=compact&theme=default&cache_seconds=60" alt="Top Langs" />
 </p>
-
+--!>
 ---
 
 ### 🌟 Compteur de visiteurs
